@@ -1,1 +1,0 @@
-# Ip-Info-Getter-app
